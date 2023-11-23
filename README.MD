@@ -3,6 +3,6 @@
 
 
 ## specjalne podziękowania dla:
-kolegów z klasy którzy testowali ćwierkacza:
-- Jyfryx
-- Hanik
+- kolegów z klasy którzy testowali ćwierkacza:
+    - Jyfryx
+    - Hanik
