@@ -7,6 +7,7 @@
 
 ## kontakt:
 mail: cwierkacz@szewczuko.com
+
 twitter: [@szewczuko](https://ćwierkacz.pl/szewczuko)
 
 ### specjalne podziękowania dla kolegów z klasy, którzy testowali ćwierkacza:
