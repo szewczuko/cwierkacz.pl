@@ -3,5 +3,5 @@
 
 
 ### specjalne podziękowania dla kolegów z klasy, którzy testowali ćwierkacza:
-- Jyfryx
-- Hanik
+- [Jyfryx](https://discord.com/users/624543250983682048)
+- [Hanik](https://discord.com/users/860120189211377674)
