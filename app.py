@@ -11,4 +11,4 @@ def redirect_to_example(url):
     return redirect(f'http://twitter.com/{url}', code=302)
 
 if __name__ == '__main__':
-    app.run(port=1337)
+    app.run(host=0.0.0.0, port=1337)
